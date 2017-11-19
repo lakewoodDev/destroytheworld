@@ -1,3 +1,2 @@
 # destroytheworld
-#### The End Is Nearish
-
+#### The End 
